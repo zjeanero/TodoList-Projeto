@@ -7,7 +7,7 @@ export const Container = styled.main`
 `
 
 export const Resultado = styled.p`
-  display: block";
+  display: block;
   margin-top: 40px;
   margin-bottom: 40px;
   font-size: 18px;
